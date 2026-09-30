@@ -1,0 +1,27 @@
+{
+  "lang": "it",
+  "version": 1,
+  "builtAt": "2026-09-30T16:40:19Z",
+  "normalize": {
+    "scheme": 2
+  },
+  "counts": {
+    "lemmas": 129738,
+    "forms": 905827,
+    "rules": 6012
+  },
+  "files": {
+    "dict": "dict.tsv.gz",
+    "forms": "forms.tsv.gz",
+    "rules": "rules.json.gz"
+  },
+  "bytes": {
+    "dict.tsv.gz": 2163865,
+    "forms.tsv.gz": 2847166,
+    "rules.json.gz": 28662
+  },
+  "sources": [
+    "kaikki.org Wiktionary extract (CC BY-SA 4.0; Wiktionary text also GFDL) https://kaikki.org/dictionary/Italian/kaikki.org-dictionary-Italian.jsonl",
+    "FrequencyWords 2018 (Hermit Dave, from OpenSubtitles; content CC BY-SA 4.0, code MIT) https://raw.githubusercontent.com/hermitdave/FrequencyWords/master/content/2018/it/it_50k.txt"
+  ]
+}

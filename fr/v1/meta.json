@@ -1,0 +1,27 @@
+{
+  "lang": "fr",
+  "version": 1,
+  "builtAt": "2026-09-30T16:42:02Z",
+  "normalize": {
+    "scheme": 2
+  },
+  "counts": {
+    "lemmas": 68060,
+    "forms": 351199,
+    "rules": 1019
+  },
+  "files": {
+    "dict": "dict.tsv.gz",
+    "forms": "forms.tsv.gz",
+    "rules": "rules.json.gz"
+  },
+  "bytes": {
+    "dict.tsv.gz": 1234210,
+    "forms.tsv.gz": 1122187,
+    "rules.json.gz": 5520
+  },
+  "sources": [
+    "kaikki.org Wiktionary extract (CC BY-SA 4.0; Wiktionary text also GFDL) https://kaikki.org/dictionary/French/kaikki.org-dictionary-French.jsonl",
+    "FrequencyWords 2018 (Hermit Dave, from OpenSubtitles; content CC BY-SA 4.0, code MIT) https://raw.githubusercontent.com/hermitdave/FrequencyWords/master/content/2018/fr/fr_50k.txt"
+  ]
+}

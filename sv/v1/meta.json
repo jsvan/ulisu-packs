@@ -1,0 +1,27 @@
+{
+  "lang": "sv",
+  "version": 1,
+  "builtAt": "2026-09-30T16:45:18Z",
+  "normalize": {
+    "scheme": 2
+  },
+  "counts": {
+    "lemmas": 52066,
+    "forms": 295470,
+    "rules": 860
+  },
+  "files": {
+    "dict": "dict.tsv.gz",
+    "forms": "forms.tsv.gz",
+    "rules": "rules.json.gz"
+  },
+  "bytes": {
+    "dict.tsv.gz": 1119609,
+    "forms.tsv.gz": 908506,
+    "rules.json.gz": 4494
+  },
+  "sources": [
+    "kaikki.org Wiktionary extract (CC BY-SA 4.0; Wiktionary text also GFDL) https://kaikki.org/dictionary/Swedish/kaikki.org-dictionary-Swedish.jsonl",
+    "FrequencyWords 2018 (Hermit Dave, from OpenSubtitles; content CC BY-SA 4.0, code MIT) https://raw.githubusercontent.com/hermitdave/FrequencyWords/master/content/2018/sv/sv_50k.txt"
+  ]
+}
