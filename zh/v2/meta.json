@@ -1,0 +1,27 @@
+{
+  "lang": "zh",
+  "version": 2,
+  "builtAt": "2026-09-30T16:35:42Z",
+  "normalize": {
+    "scheme": 2
+  },
+  "counts": {
+    "lemmas": 155921,
+    "forms": 128506,
+    "rules": 6832
+  },
+  "files": {
+    "dict": "dict.tsv.gz",
+    "forms": "forms.tsv.gz",
+    "rules": "rules.json.gz"
+  },
+  "bytes": {
+    "dict.tsv.gz": 2699958,
+    "forms.tsv.gz": 939183,
+    "rules.json.gz": 51723
+  },
+  "sources": [
+    "kaikki.org Wiktionary extract (CC BY-SA 4.0; Wiktionary text also GFDL) https://kaikki.org/dictionary/Chinese/kaikki.org-dictionary-Chinese.jsonl",
+    "FrequencyWords 2018 (Hermit Dave, from OpenSubtitles; content CC BY-SA 4.0, code MIT) https://raw.githubusercontent.com/hermitdave/FrequencyWords/master/content/2018/zh_cn/zh_cn_50k.txt"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "lang": "es",
+  "version": 2,
+  "builtAt": "2026-09-30T16:37:46Z",
+  "normalize": {
+    "scheme": 2
+  },
+  "counts": {
+    "lemmas": 89624,
+    "forms": 1105671,
+    "rules": 6327
+  },
+  "files": {
+    "dict": "dict.tsv.gz",
+    "forms": "forms.tsv.gz",
+    "rules": "rules.json.gz"
+  },
+  "bytes": {
+    "dict.tsv.gz": 1284660,
+    "forms.tsv.gz": 2983688,
+    "rules.json.gz": 22576
+  },
+  "sources": [
+    "kaikki.org Wiktionary extract (CC BY-SA 4.0; Wiktionary text also GFDL) https://kaikki.org/dictionary/Spanish/kaikki.org-dictionary-Spanish.jsonl",
+    "FrequencyWords 2018 (Hermit Dave, from OpenSubtitles; content CC BY-SA 4.0, code MIT) https://raw.githubusercontent.com/hermitdave/FrequencyWords/master/content/2018/es/es_50k.txt"
+  ]
+}

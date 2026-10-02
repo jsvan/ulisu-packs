@@ -1,0 +1,27 @@
+{
+  "lang": "fi",
+  "version": 2,
+  "builtAt": "2026-09-30T16:43:35Z",
+  "normalize": {
+    "scheme": 2
+  },
+  "counts": {
+    "lemmas": 157823,
+    "forms": 4196706,
+    "rules": 5429
+  },
+  "files": {
+    "dict": "dict.tsv.gz",
+    "forms": "forms.tsv.gz",
+    "rules": "rules.json.gz"
+  },
+  "bytes": {
+    "dict.tsv.gz": 2356194,
+    "forms.tsv.gz": 11963015,
+    "rules.json.gz": 26371
+  },
+  "sources": [
+    "kaikki.org Wiktionary extract (CC BY-SA 4.0; Wiktionary text also GFDL) https://kaikki.org/dictionary/Finnish/kaikki.org-dictionary-Finnish.jsonl",
+    "FrequencyWords 2018 (Hermit Dave, from OpenSubtitles; content CC BY-SA 4.0, code MIT) https://raw.githubusercontent.com/hermitdave/FrequencyWords/master/content/2018/fi/fi_50k.txt"
+  ]
+}
