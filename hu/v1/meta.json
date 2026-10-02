@@ -1,0 +1,27 @@
+{
+  "lang": "hu",
+  "version": 1,
+  "builtAt": "2026-10-02T15:01:31Z",
+  "normalize": {
+    "scheme": 2
+  },
+  "counts": {
+    "lemmas": 32653,
+    "forms": 1625518,
+    "rules": 3723
+  },
+  "files": {
+    "dict": "dict.tsv.gz",
+    "forms": "forms.tsv.gz",
+    "rules": "rules.json.gz"
+  },
+  "bytes": {
+    "dict.tsv.gz": 507351,
+    "forms.tsv.gz": 4558823,
+    "rules.json.gz": 15417
+  },
+  "sources": [
+    "kaikki.org Wiktionary extract (CC BY-SA 4.0; Wiktionary text also GFDL) https://kaikki.org/dictionary/Hungarian/kaikki.org-dictionary-Hungarian.jsonl",
+    "FrequencyWords 2018 (Hermit Dave, from OpenSubtitles; content CC BY-SA 4.0, code MIT) https://raw.githubusercontent.com/hermitdave/FrequencyWords/master/content/2018/hu/hu_50k.txt"
+  ]
+}

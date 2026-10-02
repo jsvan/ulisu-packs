@@ -1,0 +1,27 @@
+{
+  "lang": "tr",
+  "version": 3,
+  "builtAt": "2026-09-30T16:43:19Z",
+  "normalize": {
+    "scheme": 2
+  },
+  "counts": {
+    "lemmas": 18809,
+    "forms": 1849295,
+    "rules": 2050
+  },
+  "files": {
+    "dict": "dict.tsv.gz",
+    "forms": "forms.tsv.gz",
+    "rules": "rules.json.gz"
+  },
+  "bytes": {
+    "dict.tsv.gz": 306568,
+    "forms.tsv.gz": 5199915,
+    "rules.json.gz": 7900
+  },
+  "sources": [
+    "kaikki.org Wiktionary extract (CC BY-SA 4.0; Wiktionary text also GFDL) https://kaikki.org/dictionary/Turkish/kaikki.org-dictionary-Turkish.jsonl",
+    "FrequencyWords 2018 (Hermit Dave, from OpenSubtitles; content CC BY-SA 4.0, code MIT) https://raw.githubusercontent.com/hermitdave/FrequencyWords/master/content/2018/tr/tr_50k.txt"
+  ]
+}

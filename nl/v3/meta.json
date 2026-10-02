@@ -1,0 +1,27 @@
+{
+  "lang": "nl",
+  "version": 3,
+  "builtAt": "2026-09-30T16:44:36Z",
+  "normalize": {
+    "scheme": 2
+  },
+  "counts": {
+    "lemmas": 60591,
+    "forms": 141438,
+    "rules": 1067
+  },
+  "files": {
+    "dict": "dict.tsv.gz",
+    "forms": "forms.tsv.gz",
+    "rules": "rules.json.gz"
+  },
+  "bytes": {
+    "dict.tsv.gz": 912286,
+    "forms.tsv.gz": 581011,
+    "rules.json.gz": 7029
+  },
+  "sources": [
+    "kaikki.org Wiktionary extract (CC BY-SA 4.0; Wiktionary text also GFDL) https://kaikki.org/dictionary/Dutch/kaikki.org-dictionary-Dutch.jsonl",
+    "FrequencyWords 2018 (Hermit Dave, from OpenSubtitles; content CC BY-SA 4.0, code MIT) https://raw.githubusercontent.com/hermitdave/FrequencyWords/master/content/2018/nl/nl_50k.txt"
+  ]
+}

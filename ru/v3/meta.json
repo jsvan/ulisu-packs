@@ -1,0 +1,27 @@
+{
+  "lang": "ru",
+  "version": 3,
+  "builtAt": "2026-09-30T16:39:04Z",
+  "normalize": {
+    "scheme": 2
+  },
+  "counts": {
+    "lemmas": 49857,
+    "forms": 866768,
+    "rules": 2895
+  },
+  "files": {
+    "dict": "dict.tsv.gz",
+    "forms": "forms.tsv.gz",
+    "rules": "rules.json.gz"
+  },
+  "bytes": {
+    "dict.tsv.gz": 916354,
+    "forms.tsv.gz": 3126837,
+    "rules.json.gz": 16455
+  },
+  "sources": [
+    "kaikki.org Wiktionary extract (CC BY-SA 4.0; Wiktionary text also GFDL) https://kaikki.org/dictionary/Russian/kaikki.org-dictionary-Russian.jsonl",
+    "FrequencyWords 2018 (Hermit Dave, from OpenSubtitles; content CC BY-SA 4.0, code MIT) https://raw.githubusercontent.com/hermitdave/FrequencyWords/master/content/2018/ru/ru_50k.txt"
+  ]
+}

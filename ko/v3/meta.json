@@ -1,0 +1,27 @@
+{
+  "lang": "ko",
+  "version": 3,
+  "builtAt": "2026-09-30T16:45:15Z",
+  "normalize": {
+    "scheme": 2
+  },
+  "counts": {
+    "lemmas": 31367,
+    "forms": 300333,
+    "rules": 3915
+  },
+  "files": {
+    "dict": "dict.tsv.gz",
+    "forms": "forms.tsv.gz",
+    "rules": "rules.json.gz"
+  },
+  "bytes": {
+    "dict.tsv.gz": 544063,
+    "forms.tsv.gz": 1029133,
+    "rules.json.gz": 15008
+  },
+  "sources": [
+    "kaikki.org Wiktionary extract (CC BY-SA 4.0; Wiktionary text also GFDL) https://kaikki.org/dictionary/Korean/kaikki.org-dictionary-Korean.jsonl",
+    "FrequencyWords 2018 (Hermit Dave, from OpenSubtitles; content CC BY-SA 4.0, code MIT) https://raw.githubusercontent.com/hermitdave/FrequencyWords/master/content/2018/ko/ko_50k.txt"
+  ]
+}

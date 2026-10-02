@@ -1,0 +1,27 @@
+{
+  "lang": "ar",
+  "version": 3,
+  "builtAt": "2026-09-30T16:43:19Z",
+  "normalize": {
+    "scheme": 2
+  },
+  "counts": {
+    "lemmas": 18596,
+    "forms": 281725,
+    "rules": 6659
+  },
+  "files": {
+    "dict": "dict.tsv.gz",
+    "forms": "forms.tsv.gz",
+    "rules": "rules.json.gz"
+  },
+  "bytes": {
+    "dict.tsv.gz": 389247,
+    "forms.tsv.gz": 1019248,
+    "rules.json.gz": 25948
+  },
+  "sources": [
+    "kaikki.org Wiktionary extract (CC BY-SA 4.0; Wiktionary text also GFDL) https://kaikki.org/dictionary/Arabic/kaikki.org-dictionary-Arabic.jsonl",
+    "FrequencyWords 2018 (Hermit Dave, from OpenSubtitles; content CC BY-SA 4.0, code MIT) https://raw.githubusercontent.com/hermitdave/FrequencyWords/master/content/2018/ar/ar_50k.txt"
+  ]
+}

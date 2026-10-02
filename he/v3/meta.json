@@ -1,0 +1,27 @@
+{
+  "lang": "he",
+  "version": 3,
+  "builtAt": "2026-09-30T16:45:38Z",
+  "normalize": {
+    "scheme": 2
+  },
+  "counts": {
+    "lemmas": 9414,
+    "forms": 105552,
+    "rules": 3110
+  },
+  "files": {
+    "dict": "dict.tsv.gz",
+    "forms": "forms.tsv.gz",
+    "rules": "rules.json.gz"
+  },
+  "bytes": {
+    "dict.tsv.gz": 190427,
+    "forms.tsv.gz": 365644,
+    "rules.json.gz": 12755
+  },
+  "sources": [
+    "kaikki.org Wiktionary extract (CC BY-SA 4.0; Wiktionary text also GFDL) https://kaikki.org/dictionary/Hebrew/kaikki.org-dictionary-Hebrew.jsonl",
+    "FrequencyWords 2018 (Hermit Dave, from OpenSubtitles; content CC BY-SA 4.0, code MIT) https://raw.githubusercontent.com/hermitdave/FrequencyWords/master/content/2018/he/he_50k.txt"
+  ]
+}

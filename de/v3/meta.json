@@ -1,0 +1,27 @@
+{
+  "lang": "de",
+  "version": 3,
+  "builtAt": "2026-09-30T16:35:39Z",
+  "normalize": {
+    "scheme": 2
+  },
+  "counts": {
+    "lemmas": 80851,
+    "forms": 379020,
+    "rules": 2060
+  },
+  "files": {
+    "dict": "dict.tsv.gz",
+    "forms": "forms.tsv.gz",
+    "rules": "rules.json.gz"
+  },
+  "bytes": {
+    "dict.tsv.gz": 1307121,
+    "forms.tsv.gz": 1313829,
+    "rules.json.gz": 10960
+  },
+  "sources": [
+    "kaikki.org Wiktionary extract (CC BY-SA 4.0; Wiktionary text also GFDL) https://kaikki.org/dictionary/German/kaikki.org-dictionary-German.jsonl",
+    "FrequencyWords 2018 (Hermit Dave, from OpenSubtitles; content CC BY-SA 4.0, code MIT) https://raw.githubusercontent.com/hermitdave/FrequencyWords/master/content/2018/de/de_50k.txt"
+  ]
+}
